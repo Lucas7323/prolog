@@ -1,2 +1,2 @@
-# prolog
-Prolog
+# Prolog exercise
+Solved prolog programming exercises
